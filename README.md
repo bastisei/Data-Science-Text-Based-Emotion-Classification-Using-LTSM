@@ -36,9 +36,6 @@ Make sure you have the following libraries installed before running the project:
 - `nltk`
 - `sklearn`
 
-Install required packages with:
-```bash
-pip install -r requirements.txt ````
 
 ### Data Preparation
 1. Place the training, validation, and test datasets in the appropriate folders.
@@ -62,3 +59,7 @@ pip install -r requirements.txt ````
 
 ### Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
+
+### Install required packages with:
+```bash
+pip install -r requirements.txt 
