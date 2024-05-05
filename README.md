@@ -17,7 +17,7 @@ This repository contains code for an **Emotion Recognition** project using a Bid
 ## Project Overview
 - **Goal**: Recognize and classify emotions in textual data.
 - **Dataset**: The project uses a publicly available dataset that includes training, validation, and test sets.
-- **Classes**: The data is categorized into the following emotional classes:
+- **Classes**: The data is categorized into the following emotional classes such as:
   - `sadness`, `joy`, `love`, `anger`, `fear`, `surprise`.
 
 ## Features
