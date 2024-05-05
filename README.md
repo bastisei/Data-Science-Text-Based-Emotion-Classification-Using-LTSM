@@ -38,7 +38,7 @@ Make sure you have the following libraries installed before running the project:
 
 Install required packages with:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ### Data Preparation
 1. Place the training, validation, and test datasets in the appropriate folders.
